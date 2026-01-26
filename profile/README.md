@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/icon.png" width="120" alt="Readmigo Logo">
-</p>
-
 <h1 align="center">Readmigo</h1>
 
 <p align="center">
