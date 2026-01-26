@@ -1,8 +1,25 @@
-# Readmigo
+<p align="center">
+  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/icon.png" width="120" alt="Readmigo Logo">
+</p>
 
-**AI-Powered English Reading Companion**
+<h1 align="center">Readmigo</h1>
 
-Readmigo helps language learners improve their English through immersive reading experiences with AI-assisted comprehension tools.
+<p align="center">
+  <strong>AI-Powered English Reading Companion</strong>
+</p>
+
+<p align="center">
+  Readmigo helps language learners improve their English through immersive reading experiences with AI-assisted comprehension tools.
+</p>
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/57.png" width="200" alt="Library">
+  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/58.png" width="200" alt="Reader">
+  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/59.png" width="200" alt="AI Assistant">
+  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/60.png" width="200" alt="Vocabulary">
+</p>
 
 ## Features
 
@@ -35,6 +52,18 @@ Readmigo helps language learners improve their English through immersive reading
 - **Mobile**: React Native, Expo
 - **AI**: OpenAI, Anthropic Claude, Deepseek
 - **Infrastructure**: Fly.io, Cloudflare R2, Neon DB
+
+## Download
+
+<p align="center">
+  <a href="https://apps.apple.com/app/readmigo">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50" alt="Download on App Store">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.readmigo.app">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Get it on Google Play">
+  </a>
+</p>
 
 ## Contact
 
