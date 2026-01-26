@@ -42,6 +42,7 @@
 | [content-studio](https://github.com/readmigo/content-studio) | Content editing and preview tool |
 | [nlp](https://github.com/readmigo/nlp) | Python NLP service |
 | [website](https://github.com/readmigo/website) | Marketing website |
+| [docs](https://github.com/readmigo/docs) | Project documentation (VitePress) |
 
 ## Tech Stack
 
