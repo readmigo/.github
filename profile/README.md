@@ -65,11 +65,11 @@
 
 <p align="center">
   <a href="https://apps.apple.com/app/readmigo">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" height="40" alt="Download on App Store">
+    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/app-store-badge.svg" height="44" alt="Download on App Store">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.readmigo.app">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" alt="Get it on Google Play">
+    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/google-play-badge.png" height="64" alt="Get it on Google Play">
   </a>
 </p>
 
