@@ -61,7 +61,7 @@
 ## Download
 
 <p align="center">
-  <a href="https://apps.apple.com/app/readmigo">
+  <a href="https://apps.apple.com/app/readmigo/id6740539519">
     <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/app-store-badge.svg" height="44" alt="Download on App Store">
   </a>
   &nbsp;&nbsp;&nbsp;
