@@ -36,6 +36,7 @@
 | [mobile](https://github.com/readmigo/mobile) | React Native cross-platform app |
 | [dashboard](https://github.com/readmigo/dashboard) | Admin dashboard |
 | [content-studio](https://github.com/readmigo/content-studio) | Content editing and preview tool |
+| [audiolab](https://github.com/readmigo/audiolab) | Audiobook production pipeline (LibriVox + AI TTS) |
 | [nlp](https://github.com/readmigo/nlp) | Python NLP service |
 | [website](https://github.com/readmigo/website) | Marketing website |
 | [docs](https://github.com/readmigo/docs) | Project documentation (VitePress) |
@@ -48,6 +49,7 @@
 - **Android**: Kotlin, Jetpack Compose
 - **Mobile**: React Native, Expo
 - **AI**: OpenAI, Anthropic Claude, Deepseek
+- **Audio**: FFmpeg, Azure Speech, ElevenLabs, OpenAI TTS
 - **Infrastructure**: Fly.io, Cloudflare R2, Neon DB
 
 ## Products
