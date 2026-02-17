@@ -103,5 +103,4 @@
 
 - Website: [readmigo.app](https://readmigo.app)
 - Email: [support@readmigo.app](mailto:support@readmigo.app)
-- X (Twitter): [@nicekwell](https://x.com/nicekwell)
 - GitHub: [github.com/readmigo](https://github.com/readmigo)
