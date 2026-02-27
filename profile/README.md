@@ -24,21 +24,19 @@
 
 <p align="center">
   <a href="https://readmigo.app">
-    <img src="https://img.shields.io/badge/Official_Website-readmigo.app-0969DA?style=for-the-badge&logo=safari&logoColor=white" height="44" alt="Official Website">
+    <img src="https://img.shields.io/badge/Official_Website-0969DA?style=for-the-badge&logo=safari&logoColor=white" height="44" alt="Official Website">
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://apps.apple.com/us/app/readmigo/id6756987013">
-    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/app-store-badge.svg" height="44" alt="Download on App Store">
+    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" height="44" alt="Download on App Store">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.readmigo.app">
-    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/google-play-badge.png" height="44" alt="Get it on Google Play">
+    <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" height="44" alt="Get it on Google Play">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://web.readmigo.app">
-    <img src="https://img.shields.io/badge/Open_Web_App-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="Open Web App">
+    <img src="https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="Open Web App">
   </a>
 </p>
 
