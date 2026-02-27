@@ -20,13 +20,37 @@
 
 ---
 
+## Get Readmigo
+
+<p align="center">
+  <a href="https://readmigo.app">
+    <img src="https://img.shields.io/badge/Official_Website-readmigo.app-0969DA?style=for-the-badge&logo=safari&logoColor=white" height="44" alt="Official Website">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/readmigo/id6756987013">
+    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/app-store-badge.svg" height="44" alt="Download on App Store">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.readmigo.app">
+    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/google-play-badge.png" height="44" alt="Get it on Google Play">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://web.readmigo.app">
+    <img src="https://img.shields.io/badge/Open_Web_App-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="Open Web App">
+  </a>
+</p>
+
+---
+
 ## Screenshots
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/57.png" width="200" alt="Library">
   <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/58.png" width="200" alt="Reader">
   <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/59.png" width="200" alt="AI Assistant">
-  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/60.png" width="200" alt="Vocabulary">
+  <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/60.png" width="200" alt="Reading">
 </p>
 
 ## Features
@@ -34,7 +58,6 @@
 - **100,000+ Books** — Massive collection from Project Gutenberg, including classics from Shakespeare to Jane Austen
 - **20,000+ Audiobooks** — Free audiobooks from LibriVox, read by real narrators
 - **AI Reading Assistant** — Contextual word explanations, sentence simplification, and paragraph translations
-- **Vocabulary Building** — Spaced repetition and context-based learning
 - **TTS Read Aloud** — Listen to any book with natural AI voices
 - **Custom Typesetting Engine** — Native C++ rendering engine for pixel-perfect ebook layout across all platforms
 - **PDF Support** — AI-powered PDF classification and rendering: ebooks, papers, magazines, comics, textbooks
@@ -129,32 +152,6 @@ AI-powered pipeline for handling every PDF and document type.
 | **Typesetting** | C++17, Standard Ebooks CSS, HarfBuzz, FreeType |
 | **Document AI** | Python, Tesseract, OpenCV, PyMuPDF |
 | **Infrastructure** | Fly.io, Vercel, Cloudflare Pages, Cloudflare R2, Neon DB |
-
-## Products
-
-| Product | Platform | Link |
-|---------|----------|------|
-| Readmigo | iOS | [App Store](https://apps.apple.com/us/app/readmigo/id6756987013) |
-| Readmigo | Android | Coming Soon |
-| Readmigo | Web | [web.readmigo.app](https://web.readmigo.app) |
-| FocusReader | Web | [rss.mcloud88.com](https://rss.mcloud88.com) |
-| AI Tech Review | Web | [ai.readmigo.app](https://ai.readmigo.app) |
-| Blog | Web | [blog.readmigo.app](https://blog.readmigo.app) |
-| Dashboard | Web | [dashboard.readmigo.com](https://dashboard.readmigo.com) |
-| Content Studio | Web | [studio.readmigo.com](https://studio.readmigo.com) |
-| Documentation | Web | [docs.readmigo.app](https://docs.readmigo.app) |
-
-## Download
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/readmigo/id6756987013">
-    <img src="https://raw.githubusercontent.com/readmigo/.github/main/profile/assets/app-store-badge.svg" height="44" alt="Download on App Store">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://web.readmigo.app">
-    <img src="https://img.shields.io/badge/Open_Web_App-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="Open Web App">
-  </a>
-</p>
 
 ## Contact
 
