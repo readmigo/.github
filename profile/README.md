@@ -23,7 +23,7 @@
 ## Get Readmigo
 
 <p align="center">
-  <a href="https://readmigo.app">
+  <a href="https://readmigo.app?utm_source=github&utm_medium=referral&utm_campaign=org_profile">
     <img src="https://img.shields.io/badge/Official_Website-0969DA?style=for-the-badge&logo=safari&logoColor=white" height="44" alt="Official Website">
   </a>
   &nbsp;
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" height="44" alt="Get it on Google Play">
   </a>
   &nbsp;
-  <a href="https://web.readmigo.app">
+  <a href="https://web.readmigo.app?utm_source=github&utm_medium=referral&utm_campaign=org_profile">
     <img src="https://img.shields.io/badge/Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="Open Web App">
   </a>
 </p>
@@ -153,6 +153,6 @@ AI-powered pipeline for handling every PDF and document type.
 
 ## Contact
 
-- Website: [readmigo.app](https://readmigo.app)
+- Website: [readmigo.app](https://readmigo.app?utm_source=github&utm_medium=referral&utm_campaign=org_profile)
 - Email: [support@readmigo.app](mailto:support@readmigo.app)
 - GitHub: [github.com/readmigo](https://github.com/readmigo)
