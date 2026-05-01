@@ -1,6 +1,10 @@
 <h1 align="center">Readmigo</h1>
 
 <p align="center">
+  <a href="https://readmigo.app/"><strong>https://readmigo.app/</strong></a>
+</p>
+
+<p align="center">
   <strong>AI-Powered English Reading Companion</strong>
 </p>
 
